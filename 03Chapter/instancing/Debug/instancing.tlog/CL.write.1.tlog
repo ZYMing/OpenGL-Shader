@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="renderer" content="webkit">
+<title>北航校园网认证计费系统</title>
+<link href="buaa/css/style.css" rel="stylesheet">
+<link href="buaa/css/main.css" rel="stylesheet">
+<script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript" src="/lib/md5.js"></script>
+<script type="text/javascript" src="./js/bulletin.js"></script>
+<script type="text/javascript" src="./js/login.js"></script>
+</head>
+<body>
+<div class="logo"></div>
+<div class="bg">
+	<img src="buaa/images/title.gif" style=" position:absolute; left:230px; top:100px;">	
+	<div style=" position:absolute; left:490px; top:45px; width:260; height:160px; " >
+	<a href="http://nic.buaa.edu.cn/tzgg/92802.htm" style="display:block;color:#FF3300; padding-bottom:3px;">&nbsp;&nbsp;关于校园网认证计费系统升级通知  <img src="../images/news.gif" border="0">  2016-07-01</a>
+	<a href="http://nic.buaa.edu.cn/tzgg/89999.htm" style="display:block;color:#000000; padding-bottom:3px;">&nbsp;&nbsp;关于2016年校园网节假日免费通知  2016-04-01</a>
+	<a href="http://nic.buaa.edu.cn/tzgg/89273.htm" style="display:block;color:#000000; padding-bottom:3px;">&nbsp;&nbsp;关于校园网出口防火墙升级通知   2016-03-18</a>
+	</div>
+    <div class="boxin">
+    	<form name="form1" onsubmit="do_login();return false;" met
