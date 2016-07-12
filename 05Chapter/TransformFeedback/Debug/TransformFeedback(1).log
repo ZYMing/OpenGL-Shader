@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="renderer" content="webkit">
+<title>北航校园网认证计费系统</title>
+<link href="buaa/css/style.css" rel="stylesheet">
+<link href="buaa/css/main.css" rel="stylesheet">
+<script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript" src="/lib/md5.js"></script>
+<script type="text/javascript" src="./js/bulletin.js"></script>
+<script type="text/javascript" src="./js/login.js"></script>
+</head>
